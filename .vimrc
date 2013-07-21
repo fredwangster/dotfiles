@@ -1,2 +1,2 @@
 syntax on
-colorscheme grb256
+colorscheme slate
